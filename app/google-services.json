@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "320098962678",
+    "project_id": "tunez-f7553",
+    "storage_bucket": "tunez-f7553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320098962678:android:264a6f41bd5e553164b0d7",
+        "android_client_info": {
+          "package_name": "com.example.tunez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320098962678-972qbfh1eogp292r883tg1fs4hmfeifh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tunez",
+            "certificate_hash": "933e7b143f15fc9086e92dbb5848f57bde91f505"
+          }
+        },
+        {
+          "client_id": "320098962678-l0eggb3ac657pelhvdqm3bkham7qq5am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxwrJL-6lBVo-HfJOxWdvmy5xBwidnxuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320098962678-l0eggb3ac657pelhvdqm3bkham7qq5am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

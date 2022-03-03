@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="vectorone"
+        android:icon="@drawable/vectorone"
+        android:id="@+id/vectorone"/>
+
+    <item android:title="vectortwo"
+        android:icon="@drawable/vectortwo"
+        android:id="@+id/vectortwo"/>
+
+    <item android:title="vectorthree"
+        android:icon="@drawable/vectorthree"
+        android:id="@+id/vectorthree" />
+
+    <item android:title="vectorfour"
+        android:icon="@drawable/vectorfour"
+        android:id="@+id/vectorfour"/>
+
+    <item android:title="vectorfive"
+        android:icon="@drawable/vectorfive"
+        android:id="@+id/vectorfive"/>
+</menu>

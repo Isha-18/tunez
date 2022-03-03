@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/drawable/buttonbg1.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/drawable/countryspinner.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/drawable/mobilespinnerbg.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/drawable/textviewbg.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/activity_loginactivity.xml" value="0.26875" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/activity_main.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/activity_mobilepage.xml" value="0.26875" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/activity_otp_page.xml" value="0.26875" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/activity_pinpage.xml" value="0.26875" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/fragment_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/fragment_booth.xml" value="0.2546875" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/fragment_chat.xml" value="0.26875" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/fragment_feed.xml" value="0.26875" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/layout/fragment_zone.xml" value="0.26875" />
+        <entry key="..\:/Users/Chinitha Teja/AndroidStudioProjects/tunez/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/activity_loginactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/activity_mobilepage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/activity_otp_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/activity_pinpage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/activity_profile_page.xml" value="0.264" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/fragment_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/fragment_booth.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/fragment_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/fragment_feed.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/fragment_vector1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/fragment_vector2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/layout/fragment_zone.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Isha Parab/Downloads/tunezz/tunez-main/app/src/main/res/menu/bottomnavmenu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
